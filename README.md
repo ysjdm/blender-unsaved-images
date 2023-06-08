@@ -1,5 +1,6 @@
 # blender-unsaved-images
 一个小插件，当用户保存blender工程时，如果存在未保存的图片，则弹出窗口显示当前未保存的图片名称
+
 ![unsavedimage](https://github.com/iskanime/blender-unsaved-images/assets/106150767/aac5bd60-6a5d-46dd-8656-f04d3583db0b)
 
 用户可以复制名称后，在图片编辑器中查找图片并自己选择保存或者重载
