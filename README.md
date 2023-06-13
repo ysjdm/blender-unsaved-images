@@ -1,4 +1,7 @@
 # blender-unsaved-images
+
+建议版本：blender 3.4.1及以上，未测试低版本
+
 一个小插件，当用户保存blender工程时，如果存在未保存的图片，则弹出窗口显示当前未保存的图片名称
 
 ![unsavedimage](https://github.com/iskanime/blender-unsaved-images/assets/106150767/6a93adc1-2488-45d0-b474-288341fc3960)
